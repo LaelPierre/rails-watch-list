@@ -1,24 +1,10 @@
-# README
+# 🍿 Movie list website
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 🍿 Movie-List website
 
-Things you may want to cover:
+- Movie-List Website Using Ruby on Rails, HTML CSS, JavaScript, stimulus, Git/Github.
+- Website URL (https://lael-watch-list.herokuapp.com/)
+- Developed in 2 days as a project for the Bootcamp at Le Wagon in Montreal.
+- Hosted on Heroku.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Screenshot 2022-03-15 112838](https://user-images.githubusercontent.com/93057752/158446874-3f3b7c4a-f1f3-46b3-8695-b83657d7a14b.png)
